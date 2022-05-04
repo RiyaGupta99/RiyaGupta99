@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Gupta</h1>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/RiyaGupta99?tab=repositories&type=source)
+- 👩‍💻 All of my projects are available [here](https://github.com/RiyaGupta99?tab=repositories&type=source)
 
 - 💬 Ask me about *Python and Web Development*
 
