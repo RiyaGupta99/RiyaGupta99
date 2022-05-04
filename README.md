@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Riya Gupta</h1>
 
-- 🔭 I’m currently working on Preprocessy
-
-- 🌱 I’m currently exploring *Machine Learning*
+- 👨‍💻 All of my projects are available [here](https://github.com/RiyaGupta99?tab=repositories&type=source)
 
 - 💬 Ask me about *Python and Web Development*
 
-- 📫 How to reach me *riyagupta8129@gmail.com*
+- 📫 You can reach me at *riyagupta8129@gmail.com*
 
 <br>
 <br>
